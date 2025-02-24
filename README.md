@@ -17,22 +17,6 @@ Job Genie AI is an intelligent career assistant designed to help job seekers opt
 4. **Interview Prep & Salary Insights:** Users receive role-specific interview questions and salary negotiation guidance.
 5. **Download Optimized Resume:** The finalized resume is sent back as a PDF.
 
-## Installation
-To run Job Genie AI locally:
-
-```bash
-# Clone the repository
-git clone https://github.com/your-repo/job-genie-ai.git
-
-# Navigate to the project directory
-cd job-genie-ai
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the application
-python app.py
-```
 
 ## Usage
 1. Open the application in a web browser.
